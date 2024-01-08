@@ -1,0 +1,14 @@
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\bin\Debug\net6.0\AdvanceDemo.exe
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\bin\Debug\net6.0\AdvanceDemo.deps.json
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\bin\Debug\net6.0\AdvanceDemo.runtimeconfig.json
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\bin\Debug\net6.0\AdvanceDemo.dll
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\bin\Debug\net6.0\AdvanceDemo.pdb
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.AssemblyInfoInputs.cache
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.AssemblyInfo.cs
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.dll
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\refint\AdvanceDemo.dll
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.pdb
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\AdvanceDemo.genruntimeconfig.cache
+E:\Workspace\C#\DemoMSTest\AdvanceDemo\obj\Debug\net6.0\ref\AdvanceDemo.dll
